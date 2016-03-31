@@ -1,0 +1,28 @@
+{
+  "name": "comp392-lesson10",
+  "authors": [
+    "Jagpreet Jattana, Vishal Guleria, Vinay Bhardwaj"
+  ],
+  "description": "COMP392 Final Project Advanced Graphics",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "Scripts/lib"
+  ],
+  "dependencies": {
+    "three.js": "threejs#*",
+    "stats.js": "*",
+    "Physijs": "physijs#*",
+    "EaselJS": "^0.8.2",
+    "TweenJS": "^0.6.2",
+    "SoundJS": "^0.6.2",
+    "PreloadJS": "^0.6.2"
+  }
+}
